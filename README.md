@@ -6,7 +6,7 @@
 ## Day 1 – Rotation Matrices
 
 Implemented:
-- Rotation about X, Y, Z
+- Rotation about Z
 - Orthogonality check
 - Determinant verification
 - Vector rotation visualization
