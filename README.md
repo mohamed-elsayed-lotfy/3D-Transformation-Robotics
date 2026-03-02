@@ -31,5 +31,9 @@ MATLAB
 ### Key Insight
 Transformation order changes the final pose significantly.
 
+### Mathematical Formulation
+
+T = [ R  p
+      0  1 ]
 ## Preview
 <img width="698" height="516" alt="image" src="https://github.com/user-attachments/assets/a7542ce5-6d5f-4a83-8419-0dfcb6eb62dd" />
