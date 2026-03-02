@@ -18,4 +18,6 @@ A valid rotation matrix must be orthogonal and have determinant = 1.
 MATLAB
 
 ## Preview
-<img width="686" height="541" alt="image" src="https://github.com/user-attachments/assets/6cec4e3f-6ad8-4744-9dc4-ce4fc30769a2" />
+<img width="693" height="524" alt="image" src="https://github.com/user-attachments/assets/eecc08f9-6f7f-4027-9ea6-5799cad3eaea" />
+<img width="693" height="524" alt="image" src="https://github.com/user-attachments/assets/eecc08f9-6f7f-4027-9ea6-5799cad3eaea" />
+
