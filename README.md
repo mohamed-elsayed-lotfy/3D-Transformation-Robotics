@@ -19,5 +19,4 @@ MATLAB
 
 ## Preview
 <img width="693" height="524" alt="image" src="https://github.com/user-attachments/assets/eecc08f9-6f7f-4027-9ea6-5799cad3eaea" />
-<img width="693" height="524" alt="image" src="https://github.com/user-attachments/assets/eecc08f9-6f7f-4027-9ea6-5799cad3eaea" />
 
