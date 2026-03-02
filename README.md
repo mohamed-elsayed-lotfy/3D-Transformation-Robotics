@@ -1,7 +1,4 @@
-# 3D-Transformation-Robotics
-
-
-# 3D Transformation & Frame Visualization (Robotics)
+# 3D Transformation & Frame Visualization 
 
 ## Day 1 – Rotation Matrices
 
