@@ -13,22 +13,21 @@ This project builds step-by-step understanding of:
 ## Project Structure
 
 3D-Transformation-Robotics  
-│  
-├── day1_rotation.m  
-├── day2_transformation.m  
-├── day3_composition.m  
-│  
-├── functions  
-│   ├── rotZ.m  
-│   ├── createTransform.m  
-│   └── drawFrame.m  
-│  
-├── images  
-│   ├── day1_rotation.png  
-│   ├── day2_transformation.png  
-│   └── day3_composition.png  
-│  
-└── README.md  
+  
+ day1_rotation.m  
+ day2_transformation.m  
+ day3_composition.m  
+  
+  functions  
+    rotZ.m  
+    createTransform.m  
+    drawFrame.m  
+  
+  images  
+    day1_rotation.png  
+    day2_transformation.png  
+    day3_composition.png  
+ 
 
 ---
 
