@@ -53,10 +53,7 @@ det(R) = 1
 A rotation matrix must be orthogonal and have determinant equal to 1.
 
 ### Preview
-
-<p align="center">
-  <img src="images/day1_rotation.png" width="500">
-</p>
+<img width="693" height="524" alt="imagesday1_rotation" src="https://github.com/user-attachments/assets/fc610711-f545-43f8-baa8-8f70e7e2a48e" />
 
 ---
 
@@ -84,10 +81,7 @@ Where:
 Rotation and translation can be unified into a single matrix using homogeneous coordinates.
 
 ### Preview
-
-<p align="center">
-  <img src="images/day2_transformation.png" width="500">
-</p>
+<img width="698" height="516" alt="imagesday2_transformation" src="https://github.com/user-attachments/assets/15416276-2879-4f26-ad57-a4c89ffe9880" />
 
 ---
 
@@ -111,10 +105,7 @@ Transformation order changes the final pose.
 Transformation composition order determines whether motion occurs in the global frame or the local frame.
 
 ### Preview
-
-<p align="center">
-  <img src="images/day3_composition.png" width="500">
-</p>
+<img width="696" height="511" alt="imagesday3_composition" src="https://github.com/user-attachments/assets/b3ecc774-0dec-4b93-98f2-b30b2a1600b7" />
 
 ---
 
@@ -126,15 +117,14 @@ Transformation composition order determines whether motion occurs in the global 
 - Visualization of robot links and joints
 - End-effector position extraction
 
-### Concept
+### Concept Demonstrated
+x = L1 cos(θ1) + L2 cos(θ1 + θ2)
+y = L1 sin(θ1) + L2 sin(θ1 + θ2)
 
 Forward kinematics computes the end-effector position from joint angles.
 
 ### Preview
-
-<p align="center">
-  <img src="images/day4_robot_arm.png" width="500">
-</p>
+<img width="686" height="522" alt="imagesday4_2DOF_arm m" src="https://github.com/user-attachments/assets/9aff8549-b0b2-4511-8534-61322ad95c44" />
 
 ---
 
