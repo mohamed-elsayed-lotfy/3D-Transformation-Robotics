@@ -17,6 +17,7 @@ This project builds step-by-step understanding of:
  day1_rotation.m  
  day2_transformation.m  
  day3_composition.m  
+ day4_2DOF_arm.m
   
   functions  
     rotZ.m  
@@ -27,6 +28,7 @@ This project builds step-by-step understanding of:
     day1_rotation.png  
     day2_transformation.png  
     day3_composition.png  
+    day4_robot_arm.png
  
 
 ---
@@ -115,6 +117,27 @@ Transformation composition order determines whether motion occurs in the global 
 </p>
 
 ---
+
+## Day 4 – 2DOF Robot Arm (Forward Kinematics)
+
+### Implemented
+- 2DOF planar robot arm
+- Forward kinematics using transformation matrices
+- Visualization of robot links and joints
+- End-effector position extraction
+
+### Concept
+
+Forward kinematics computes the end-effector position from joint angles.
+
+### Preview
+
+<p align="center">
+  <img src="images/day4_robot_arm.png" width="500">
+</p>
+
+---
+
 
 ## Tools Used
 
