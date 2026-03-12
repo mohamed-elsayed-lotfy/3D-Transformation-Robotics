@@ -143,8 +143,8 @@ Forward kinematics computes the end-effector position from joint angles.
 Robot motion can be simulated by varying joint angles over time.
 
 ### Preview
+<img width="600" height="625" alt="day5_robotarmautomation" src="https://github.com/user-attachments/assets/e3822f02-2b7c-4e59-b22b-b7c9f3a5812c" />
 
-<img src="images/day5_robot_animation.png" width="500">
 
 ---
 
