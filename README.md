@@ -18,6 +18,8 @@ This project builds step-by-step understanding of:
  day2_transformation.m  
  day3_composition.m  
  day4_2DOF_arm.m
+ day5_Robot Arm Animation
+
   
   functions  
     rotZ.m  
@@ -29,6 +31,7 @@ This project builds step-by-step understanding of:
     day2_transformation.png  
     day3_composition.png  
     day4_robot_arm.png
+    day5_robotarmautomation
  
 
 ---
@@ -125,6 +128,23 @@ Forward kinematics computes the end-effector position from joint angles.
 
 ### Preview
 <img width="686" height="522" alt="imagesday4_2DOF_arm m" src="https://github.com/user-attachments/assets/9aff8549-b0b2-4511-8534-61322ad95c44" />
+
+---
+
+## Day 5 – Robot Arm Animation
+
+### Implemented
+- Animated 2DOF robot arm
+- Continuous joint motion
+- Dynamic frame visualization
+
+### Concept
+
+Robot motion can be simulated by varying joint angles over time.
+
+### Preview
+
+<img src="images/day5_robot_animation.png" width="500">
 
 ---
 
