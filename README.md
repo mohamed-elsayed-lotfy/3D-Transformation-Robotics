@@ -19,6 +19,7 @@ This project builds step-by-step understanding of:
  day3_composition.m  
  day4_2DOF_arm.m
  day5_Robot Arm Animation
+ day6_Robot Arm Workspace
 
   
   functions  
@@ -31,7 +32,8 @@ This project builds step-by-step understanding of:
     day2_transformation.png  
     day3_composition.png  
     day4_robot_arm.png
-    day5_robotarmautomation
+    day5_robotarmautomation.png
+    day6_workspace.png
  
 
 ---
@@ -147,7 +149,20 @@ Robot motion can be simulated by varying joint angles over time.
 
 
 ---
+## Day 6 – Robot Arm Workspace
 
+### Implemented
+- Computed reachable workspace
+- Sampled joint angles
+- Visualized reachable points
+
+### Concept
+
+Robot workspace represents all positions the end effector can reach.
+
+### Preview
+
+<img width="693" height="552" alt="day6_workspace" src="https://github.com/user-attachments/assets/6ae4ef47-5dec-406a-b4e8-e2c49cb5e976" />
 
 ## Tools Used
 
